@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    // The bug segfault happens regardless of this setting.
+    "noEmit": true
+  }
+}
