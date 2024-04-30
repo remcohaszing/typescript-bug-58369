@@ -8,7 +8,7 @@ cd typescript-bug-58369
 npm install
 ```
 
-To make TypeScript crash, run:
+To make TypeScript crash, run the following with Node.js 22.0.0:
 
 ```sh
 tsc
